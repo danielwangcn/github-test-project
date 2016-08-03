@@ -10,5 +10,7 @@ namespace ConsoleApplication2
     {
         private int i_1;
         private int i_2;
+        private int i_3;
+
     }
 }
