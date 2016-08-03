@@ -13,6 +13,7 @@ namespace ConsoleApplication2
             Console.WriteLine("test by daniel");
             while (true) {
                 Console.WriteLine(DateTime.Now.ToString());
+                Console.WriteLine(DateTime.Now.ToString());
             }
         }
     }
