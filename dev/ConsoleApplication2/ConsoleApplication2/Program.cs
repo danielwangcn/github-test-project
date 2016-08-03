@@ -11,6 +11,9 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("test by daniel");
+            while (true) {
+                Console.WriteLine(DateTime.Now.ToString());
+            }
         }
     }
 }
