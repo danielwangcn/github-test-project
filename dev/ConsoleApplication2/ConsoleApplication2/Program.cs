@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            //this is master
             Console.WriteLine("test by daniel");
             while (true) {
                 Console.WriteLine(DateTime.Now.ToString());
