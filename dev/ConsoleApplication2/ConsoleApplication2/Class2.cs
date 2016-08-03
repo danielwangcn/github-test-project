@@ -9,5 +9,6 @@ namespace ConsoleApplication2
     class Class2
     {
         private int i_1;
+        private int i_2;
     }
 }
