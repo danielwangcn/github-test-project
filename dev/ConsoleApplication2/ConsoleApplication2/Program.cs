@@ -14,6 +14,7 @@ namespace ConsoleApplication2
             while (true) {
                 Console.WriteLine(DateTime.Now.ToString());
                 Console.WriteLine(DateTime.Now.ToString());
+                Console.WriteLine("hello");
             }
         }
     }
